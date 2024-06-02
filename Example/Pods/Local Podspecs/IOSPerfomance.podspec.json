@@ -1,0 +1,22 @@
+{
+  "name": "IOSPerfomance",
+  "version": "0.1.0",
+  "summary": "A short description of IOSPerfomance.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Никита Марьин/IOSPerfomance",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Никита Марьин": "n.maryin@tinkoff.ru"
+  },
+  "source": {
+    "git": "https://github.com/Никита Марьин/IOSPerfomance.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "IOSPerfomance/Classes/**/*"
+}
